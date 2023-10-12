@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d](https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d)
 
-- 💬 Ask me about **C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or something new**
+- 💬 Ask me about **C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or anything in my field**
 
 - 📫 How to reach me **amakaluvitalis202**
 
