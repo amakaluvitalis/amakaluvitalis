@@ -29,6 +29,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
