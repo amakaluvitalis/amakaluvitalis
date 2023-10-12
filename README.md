@@ -13,12 +13,8 @@
 
 - 💬 Ask me about **C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or anything in my field**
 - 📫 How to reach me **Throughmy email amakaluvitalis202@gmail.com or through my whatsapp +254743720033**
-- 📫 How to reach me **Throughmy email amakaluvitalis202@gmail.com or through my whatsapp +254743720033**
 - ⚡ Fun fact **I do hard Things.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🚦 Am always **READY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
