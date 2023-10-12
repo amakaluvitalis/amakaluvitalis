@@ -1,5 +1,5 @@
-<img align="center" alt="Bannner" width="100%" src="https://api.creavite.co/out/YhWGVLtYvgHWs2fafj_standard.gif"></img>
-<h1 align="center">Hi 👋, I'm Amakalu Vitalis</h1>
+<img align="center" alt="Bannner" src="https://api.creavite.co/out/YhWGVLtYvgHWs2fafj_standard.gif"></img>
+<h1 align="center">Hi 👋 there, I'm Amakalu Vitalis</h1>
 <h3 align="center">A passionate full-stack software engineer from Kenya.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></img>
 
