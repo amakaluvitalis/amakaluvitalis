@@ -5,12 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervitz&label=Profile%20views&color=0e75b6&style=flat" alt="mervitz" /> </p>
 
-- 🔭 I’m currently working on [AI Driven Academic System](https://github.com/MerVitz/ProActEd.git)
-- 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **any project on full-stack, ML,AI, or Robotics.**
 - 📝 I regularly write articles on [https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d](https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d)
 
-- 💬 Ask me about **C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or anything in my field**
+- 💬 Ask me about **Python, C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or anything in my field**
 - ⚡ Fun fact **I do hard Things.**
 - 🚦 Am always **READY**
 
