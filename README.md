@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="100%" alt="Bannner" src="https://share.creavite.co/OJFVYWeViPmybcnk.gif"></img>
 <h1 align="center">Hi 👋 there, I'm Amakalu Vitalis</h1>
-<h3 align="center">A passionate full-stack software engineer</h3>
+<h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervitz&label=Profile%20views&color=0e75b6&style=flat" alt="mervitz" /> </p>
