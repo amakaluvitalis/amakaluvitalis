@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="100%" alt="Bannner" src="https://share.creavite.co/OJFVYWeViPmybcnk.gif"></img>
 <h1 align="center">Hi 👋 there, I'm Amakalu Vitalis</h1>
-<h3 align="center">A passionate full-stack software engineer from Kenya.</h3>
+<h3 align="center">A passionate full-stack software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervitz&label=Profile%20views&color=0e75b6&style=flat" alt="mervitz" /> </p>
@@ -8,11 +8,9 @@
 - 🔭 I’m currently working on [AI Driven Academic System](https://github.com/MerVitz/ProActEd.git)
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **any project on full-stack, ML,AI, or Robotics.**
-- 🌱 I’m Currently a student at **Maseno University taking a my 1st degree in Computer Science.**
 - 📝 I regularly write articles on [https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d](https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d)
 
 - 💬 Ask me about **C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or anything in my field**
-- 📫 How to reach me **Throughmy email amakaluvitalis202@gmail.com or through my whatsapp +254743720033**
 - ⚡ Fun fact **I do hard Things.**
 - 🚦 Am always **READY**
 
