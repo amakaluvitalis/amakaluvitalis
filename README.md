@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI/ML, web, Android, or any of my expertise**.
 - ⚡ Fun fact **I do hard Things.**
-- 🚦 Am always **READY**
+- 🚦 I'm always **READY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
