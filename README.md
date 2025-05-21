@@ -1,5 +1,6 @@
 <img align="center" width="100%" height="100%" alt="Bannner" src="https://share.creavite.co/OJFVYWeViPmybcnk.gif"></img>
 <h1 align="center">Hi 👋 there, I'm Amakalu Vitalis</h1>
+
 <h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></img>
 
@@ -22,15 +23,6 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mervitz254" height="30" width="40" /></a>
 </p>
 </br>
-
-<style>
-  h3.skill-category {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-    color: #333;
-    text-align: center;
-  }
-</style>
 
 ## My Skill Set  
 <table>
@@ -131,10 +123,22 @@
       </div>
     </td>
     <td valign="top" width="20%">
-      <h3 class="skill-category">Machine Learning</h3>
+      <h3 class="skill-category">AI and ML</h3>
       <div align="center">  
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+        </a>
+        <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="50" height="50"/>
+        </a>
+        <a href="https://colab.google/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="googlecolab" width="50" height="50"/>
+        </a>
+        <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="50" height="50"/>
+        </a>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
         </a>
       </div>
     </td>
