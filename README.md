@@ -9,7 +9,7 @@
 - 👯 I’m eager to collaborate on **AI/ML, web, and Android projects.**
 - 📝 I regularly write articles on [https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d](https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d)
 
-- 💬 Ask me about **Python, C, Java, Express.js, React.js, Node.js, Django, HTML, Bootstrap or anything in my field**
+- 💬 Ask me about **AI/ML, web, Android, or any of my expertise**.
 - ⚡ Fun fact **I do hard Things.**
 - 🚦 Am always **READY**
 
