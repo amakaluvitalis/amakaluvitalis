@@ -35,7 +35,7 @@
 ## My Skill Set  
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="20%">
       <h3 class="skill-category">Frontend</h3>
       <div align="center">  
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -53,9 +53,15 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
         </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50"/>
+        </a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+        </a>
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="20%">
       <h3 class="skill-category">Backend</h3>
       <div align="center">  
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -76,6 +82,12 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
         </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+        </a>
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+        </a>
         <a href="https://www.java.com/" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="java" width="50" height="50"/>
         </a>
@@ -84,7 +96,7 @@
         </a>
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="20%">
       <h3 class="skill-category">DevOps</h3>
       <div align="center">  
         <a href="https://github.com/" target="_blank" rel="noreferrer">
@@ -99,10 +111,35 @@
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
         </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+        </a>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h3 class="skill-category">Mobile Development</h3>
+      <div align="center">  
+        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
+        </a>
+        <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="jetpackcompose" width="50" height="50"/>
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="20%">
+      <h3 class="skill-category">Machine Learning</h3>
+      <div align="center">  
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+        </a>
       </div>
     </td>
   </tr>
-</table> 
+</table>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amakaluvitalis&show_icons=true&theme=cobalt)
