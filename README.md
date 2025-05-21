@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="100%" alt="Bannner" src="[https://share.creavite.co/OJFVYWeViPmybcnk.gif](https://share.creavite.co/682dc751c055653dd9dc4e26.gif)"></img>
+<img align="center" width="100%" height="100%" alt="Bannner" src="https://share.creavite.co/682dc751c055653dd9dc4e26.gif"></img>
 <h1 align="center">Hi 👋 there, I'm Amakalu Vitalis</h1>
 
 <h3 align="center">A Software Engineer</h3>
