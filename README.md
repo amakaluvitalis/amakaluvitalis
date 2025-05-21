@@ -128,14 +128,8 @@
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
         </a>
-        <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="50" height="50"/>
-        </a>
         <a href="https://colab.google/" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="googlecolab" width="50" height="50"/>
-        </a>
-        <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-          <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="50" height="50"/>
         </a>
         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
