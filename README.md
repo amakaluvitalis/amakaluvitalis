@@ -1,12 +1,12 @@
 <img align="center" width="100%" height="100%" alt="Bannner" src="https://share.creavite.co/682dc751c055653dd9dc4e26.gif"></img>
 <h1 align="center">Hi 👋 there, I'm Amakalu Vitalis</h1>
 
-<h3 align="center">A Software Engineer building AI-powered Web and Android applications.</h3>
+<h3 align="center">A Software Engineer building AI-powered Web and Mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervitz&label=Profile%20views&color=0e75b6&style=flat" alt="mervitz" /> </p>
 
-- 👯 I’m eager to collaborate on **AI/ML, web, and Android projects.**
+- 👯 I’m eager to collaborate on **AI/ML, Web, and Mobile Dev projects.**
 - 📝 I regularly write articles on [https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d](https://medium.com/@amakaluvitalis202/building-connections-and-advancing-careers-1920f301801d)
 
 - 💬 Ask me about **AI/ML, web, Android, or any of my expertise**.
