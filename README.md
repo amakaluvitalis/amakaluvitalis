@@ -140,10 +140,10 @@
 </table>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amakaluvitalis&show_icons=true&theme=cobalt)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amakaluvitalis&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amakaluvitalis&layout=pie&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amakaluvitalis&" alt="amakaluvitalis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amakaluvitalis&" alt="amakaluvitalis" /></p> -->
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/amakaluvitalis "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amakaluvitalis " /></a></p><br><br>
 
